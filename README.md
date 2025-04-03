@@ -17,6 +17,6 @@ If you use this software in your work, please cite it as:
     version      = {1.0.0},
     type         = {Teaching Material},
     publisher    = {GitHub},
-    url          = {https://github.com/junhua/UOL-OOP}
+    url          = {https://github.com/junhua/cm2005}
 }
 ```
